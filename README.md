@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;My+name+is+Chris+du+Toit;I+am+a+AI+developer+@+Odoo)](https://git.io/typing-svg)
 <!--
 **chrisdt1998/chrisdt1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
