@@ -3,6 +3,9 @@
 
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=chrisdt1998" width="auto"></img>
 <!--
 **chrisdt1998/chrisdt1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
