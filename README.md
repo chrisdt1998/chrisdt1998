@@ -4,7 +4,7 @@
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
-[![Chris's GitHub stats](https://github-readme-stats-sooty-pi.vercel.app/api?username=chrisdt1998&theme=radical)](https://github.com/chrisdt1998)
+[![Chris's GitHub stats](https://github-readme-stats-git-master-chrisdt1998.vercel.app/api?username=chrisdt1998&theme=radical)](https://github.com/chrisdt1998)
 <!--
 **chrisdt1998/chrisdt1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
