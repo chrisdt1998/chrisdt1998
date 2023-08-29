@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;My+name+is+Chris+du+Toit;I+am+an+AI+developer+@+Odoo)](https://git.io/typing-svg)
 <a href="https://info.flagcounter.com/XBYs"><img src="https://s01.flagcounter.com/countxl/XBYs/bg_76317A/txt_F2FCFF/border_878BCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 <!--
 **chrisdt1998/chrisdt1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
